@@ -20,4 +20,4 @@ Benefit: You can modify a spell to daze a creature damaged by the spell. ~~When 
 Level Increase: +3 (a dazing spell uses up a spell slot three levels higher than the spell’s actual level.
 Spells that do not inflict damage do not benefit from this feat.*
 ## Skill
-### 1. 为了鼓励大家多做扮演,交涉类技能(唬骗 (Bluff), 交涉 (Diplomacy), 威吓 (Intimidate))可以使用队伍里的最高技能值,并且优秀的表现可以是检定直接通过.
+### 1. 为了鼓励大家多做扮演,交涉类技能(唬骗 (Bluff), 交涉 (Diplomacy), 威吓 (Intimidate))可以使用队伍里的最高技能值,并且优秀的表现可以使检定直接成功.
