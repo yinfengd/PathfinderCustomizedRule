@@ -21,3 +21,5 @@ Level Increase: +3 (a dazing spell uses up a spell slot three levels higher than
 Spells that do not inflict damage do not benefit from this feat.*  
 ## Skill
 ### 1. 为了鼓励大家多做扮演,交涉类技能(唬骗 (Bluff), 交涉 (Diplomacy), 威吓 (Intimidate))可以使用队伍里的最高技能值,并且优秀的表现可以使检定直接成功.
+## Classes
+### 1. 先知（Oracle）变体 双重诅咒（Dual-Cursed）禁用
