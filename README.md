@@ -23,6 +23,8 @@ Benefit: ~~Pick one spell when you choose this trait~~. When you apply metamagic
 Benefit: You can modify a spell to daze a creature damaged by the spell. ~~When a creature takes damage from this spell~~, they become dazed for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell.
 Level Increase: +3 (a dazing spell uses up a spell slot three levels higher than the spell’s actual level.  
 Spells that do not inflict damage do not benefit from this feat.*  
+## Spell ##
+### Battering Blast 禁用 ###
 ## Skill ##
 ### 1. 为了鼓励大家多做扮演,交涉类技能(唬骗 (Bluff), 交涉 (Diplomacy), 威吓 (Intimidate))可以使用队伍里的最高技能值,并且优秀的表现可以使检定直接成功. ###
 ## Classes ##
