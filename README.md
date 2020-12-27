@@ -23,6 +23,15 @@ Benefit: ~~Pick one spell when you choose this trait~~. When you apply metamagic
 Benefit: You can modify a spell to daze a creature damaged by the spell. ~~When a creature takes damage from this spell~~, they become dazed for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell.
 Level Increase: +3 (a dazing spell uses up a spell slot three levels higher than the spell’s actual level.  
 Spells that do not inflict damage do not benefit from this feat.*  
+## New feat ##
+### 超魔专精 ###
+* 先决条件：法术辨识3, 智力15, 法术专精, 至少1项超魔专长
+专长效果：选择一个应用法术专精的法术，当你在该法术上应用超魔效果时,最终环位-1(不能低于原法术环位)。法术应用超魔后的总环位不能高于3
+特殊说明：你可以多次选择本专长，其效果不累计。每次选择这个专长时，你需要选择一个其他的应用法术专精的法术。 *
+### 精通超魔专精 ###
+* 先决条件：法术辨识9, 智力17, 法术专精, 超魔专精, 至少2项超魔专长
+专长效果：选择一个应用法术专精的法术，当你在该法术上应用超魔效果时,最终环位-2(不能低于原法术环位)。法术应用超魔后的总环位不能高于6
+特殊说明：你可以多次选择本专长，其效果不累计。每次选择这个专长时，你需要选择一个其他的应用法术专精的法术。 *
 ## Spell ##
 ### Battering Blast 禁用 ###
 ## Skill ##
