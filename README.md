@@ -39,6 +39,6 @@ Spells that do not inflict damage do not benefit from this feat.*
 ### 1. 为了鼓励大家多做扮演,交涉类技能(唬骗 (Bluff), 交涉 (Diplomacy), 威吓 (Intimidate))可以使用队伍里的最高技能值,并且优秀的表现可以使检定直接成功. ###
 ## Classes ##
 ### 1. 先知（Oracle）变体 双重诅咒（Dual-Cursed）禁用 ###
-### 1. 召唤师（Summoner）禁用 ###
+### 2. 召唤师（Summoner）禁用 ###
 ## Others ##
 ### 1. 疾病取消潜伏期,频率改为每小时一次 ###
