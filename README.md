@@ -1,7 +1,8 @@
 # 开卡资源 #
 ### 1. 购点25 ###
-### 2. 初始资金150, 后续最少为任务奖励最大值的50% ###
+### 2. 新人初始资金为当前等级100%,3次游戏内有一次无损换卡的机会 ###
 ### 3. PFS可选资源限制 ###
+### 4. 队伍每次冒险只有一个额外伙伴(动物伙伴,坐骑,魅影,人造人等等,不包括魔宠)可以在战斗中正常行动 ###
 # 房规 #
 ## Trait ##
 ### 1. Lessons of Chaldira 修改为半身人种族限定 ###
@@ -23,9 +24,21 @@ Benefit: ~~Pick one spell when you choose this trait~~. When you apply metamagic
 Benefit: You can modify a spell to daze a creature damaged by the spell. ~~When a creature takes damage from this spell~~, they become dazed for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell.
 Level Increase: +3 (a dazing spell uses up a spell slot three levels higher than the spell’s actual level.  
 Spells that do not inflict damage do not benefit from this feat.*  
+## New feat ##
+### 超魔专精 ###
+*先决条件：法术辨识3, 智力15, 法术专精, 至少1项超魔专长  
+专长效果：选择一个应用法术专精的法术，当你在该法术上应用超魔效果时,最终环位-1(不能低于原法术环位)。法术应用超魔后的总环位不能高于3, 此专长无法与其他超魔减环的能力叠加  
+特殊说明：你可以多次选择本专长，其效果不累计。每次选择这个专长时，你需要选择一个其他的应用法术专精的法术。*
+### 精通超魔专精 ###
+*先决条件：法术辨识9, 智力17, 法术专精, 超魔专精, 至少2项超魔专长  
+专长效果：选择一个应用超魔专精的法术，当你在该法术上应用超魔效果时,最终环位-2(不能低于原法术环位)。法术应用超魔后的总环位不能高于6, 此专长无法与其他超魔减环的能力叠加(包括超魔专精)  
+特殊说明：你可以多次选择本专长，其效果不累计。每次选择这个专长时，你需要选择一个其他的应用超魔专精的法术。*
+## Spell ##
+### Battering Blast 禁用 ###
 ## Skill ##
 ### 1. 为了鼓励大家多做扮演,交涉类技能(唬骗 (Bluff), 交涉 (Diplomacy), 威吓 (Intimidate))可以使用队伍里的最高技能值,并且优秀的表现可以使检定直接成功. ###
 ## Classes ##
 ### 1. 先知（Oracle）变体 双重诅咒（Dual-Cursed）禁用 ###
+### 2. 召唤师（Summoner）禁用 ###
 ## Others ##
-### 1. 疾病取消潜伏期 ###
+### 1. 疾病取消潜伏期,频率改为每小时一次 ###
