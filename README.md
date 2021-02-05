@@ -3,7 +3,7 @@
 ### 2. 新人初始资金为当前等级100%,3次游戏内有一次无损换卡的机会 ###
 ### 3. PFS可选资源限制 ###
 查询网站 http://www.paizo.com/pathfinderSociety/additional  
-常见不可用资源(持续更新ing)   
+[常见不可用资源(持续更新ing)](https://github.com/yinfengd/PathfinderCustomizedRule/blob/main/%E5%B8%B8%E8%A7%81%E4%B8%8D%E5%8F%AF%E7%94%A8%E8%B5%84%E6%BA%90.md)   
 ### 4. 队伍每次冒险只有一个额外伙伴(动物伙伴,坐骑,魅影,人造人等等,不包括魔宠)可以在战斗中正常行动 ###
 # 房规 #
 ## Trait ##
