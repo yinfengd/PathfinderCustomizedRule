@@ -36,7 +36,7 @@
 <table>
     <tr>
         <td>察觉</td>
-        <td>+8</td>
+        <td>+9</td>
         <td>感知</td>
         <td>无</td>
     </tr>
