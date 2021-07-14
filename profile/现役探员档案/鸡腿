@@ -1,5 +1,3 @@
-## 基础
-
 <table>
   <tbody>
     <tr>
@@ -115,9 +113,17 @@
   </thead>
   <tbody>
     <tr>
-      <td>徒手打击</td>
+      <td>螺旋细剑</td>
       <td>0(BAB0)</td>
-      <td>1d3+0()</td>
+      <td> 1d6 ()</td>
+      <td></td>
+    </tr>
+  </tbody>
+<tbody>
+    <tr>
+      <td>轻弩</td>
+      <td>0(BAB0)</td>
+      <td> 1d8 ()</td>
       <td></td>
     </tr>
   </tbody>
@@ -325,15 +331,15 @@
 <table>
   <thead>
     <tr>
-      <th>蝴蝶双刀</th>
-      <th>20gp</th>
-      <th>1磅</th>
+      <th>螺旋细剑</th>
+      <th>80gp</th>
+      <th>3磅</th>
       <th>备注</th>
     </tr>
     <tr>
-      <th>星刃</th>
-      <th>24gp</th>
-      <th>3磅</th>
+      <th>Light crossbow</th>
+      <th>35gp</th>
+      <th>4磅</th>
       <th>备注</th>
     </tr>
      <tr>
