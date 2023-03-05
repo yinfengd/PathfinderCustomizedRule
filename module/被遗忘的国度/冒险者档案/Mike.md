@@ -1,7 +1,8 @@
 拟定姓名：罗伯特·诺斯维尔 
+[TOC]
 
 ### Class
-炼金铳士(Gun Chemsit)【炼金术师】
+炼金铳士(Gun Chemsit)【炼金术师】[^Test]
 
 普通的炼金术师也许对炸药有所涉猎，但对于炼金铳士来说，火器枪管就是他们的坩埚。
 
@@ -25,9 +26,9 @@
 
 爆矢弹药*（Exploding Bullet）： 炼金铳士的炼金枪弹会如同溅射武器一般对邻接目标产生溅射，并对波及到的目标造成等同于炼金弹药最小伤害的溅射伤害（通过反射减半）。炼金铳士必须至少达到4级才能选择该科研。
 
-快速轰杀（Fast Ordnance）： 获得该科研的炼金铳士能在全力攻击中发射多枚炼金枪弹。炼金铳士必须至少达到8级才能选择该科研。‘’
+快速轰杀（Fast Ordnance）： 获得该科研的炼金铳士能在全力攻击中发射多枚炼金枪弹。炼金铳士必须至少达到8级才能选择该科研。
 
-    定装专家（Cartridge Savant，Ex）：2级时，炼金铳士能高效且最大化地利用炼金定装弹，比如说闪光弹（flare cartridges，UC）等。在炼金铳士发射这类可以借由通过豁免检定忽视或削弱其效果的炼金定装弹时，其豁免DC增加1（DC的上限为22）。而该DC的增加值在炼金铳士达到5级及之后的每3级额外增加1（在20级的时候达到最大7点）。当炼金铳士发射其伤害类型替代火器正常伤害的炼金定装弹（比如龙息定装弹，dragon’s breath cartridge，UC）时，他能在伤害上获得等同于其智力修正的加值。该能力替代毒性抗力。
+定装专家（Cartridge Savant，Ex）：2级时，炼金铳士能高效且最大化地利用炼金定装弹，比如说闪光弹（flare cartridges，UC）等。在炼金铳士发射这类可以借由通过豁免检定忽视或削弱其效果的炼金定装弹时，其豁免DC增加1（DC的上限为22）。而该DC的增加值在炼金铳士达到5级及之后的每3级额外增加1（在20级的时候达到最大7点）。当炼金铳士发射其伤害类型替代火器正常伤害的炼金定装弹（比如龙息定装弹，dragon’s breath cartridge，UC）时，他能在伤害上获得等同于其智力修正的加值。该能力替代毒性抗力。
 
 连续开火（Repeat Fire，Ex）：6级时，炼金铳士获得快速装填（Rapid Reload，UC）作为奖励专长，他必须为该专长选择一种火器。若他已经具备该专长，则作为替代她能获得一个满足先决条件的战斗专长。该能力替代迅捷上毒。
 
@@ -40,3 +41,48 @@ You were the child of a gunsmith or alchemist and always enjoyed experimenting w
 
 Sand Bomb* (Su) (Antihero's Handbook pg. 29): When the alchemist creates a bomb, he can pack the casing full of sand that explodes in an abrasive cloud on impact. A creature that takes a direct hit from a sand bomb is blinded for 1 round, as are any creatures in the splash radius that fail a Reflex save (DC = 10 + half the alchemist’s level + his Intelligence modifier).
 
+[^Test]: this is a test
+
+
+### Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### Heading ID
+
+### My Great Heading {#custom-id}
+
+### Definition List
+
+term
+: definition
+
+### Strikethrough
+
+~~The world is flat.~~
+
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+### Emoji
+
+That is so funny! :joy:
+
+(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
+
+### Highlight
+
+I need to highlight these ==very important words==.
+
+### Subscript
+
+H~2~O
+
+### Superscript
+
+X^2^
